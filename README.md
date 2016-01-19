@@ -9,7 +9,7 @@ In this exercise we will look at dealing with anagrams in Python.
 
 1. Write a script which outputs all words of length nine from that words list to a new file.
 
-1. Write a function which takes a string as input and returns a list containing all anagrams of that string (whether the anagram is an English word or not.
+1. Write a function which takes a string as input and returns a list containing all anagrams of that string (whether the anagram is an English word or not).
 
 1. Write a script which takes as input a single nine-character string, and checks if it is an anagram of any of the words in the list of nine letter words. 
 
